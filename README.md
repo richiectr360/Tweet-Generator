@@ -1,4 +1,4 @@
-# Codebender Tweet Generator
+# Richie Tweet Generator
 
 This app generates engaging tweets for your brand.
 

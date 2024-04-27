@@ -5,7 +5,7 @@ import { config } from "@fortawesome/fontawesome-svg-core";
 config.autoAddCss = false;
 
 export const metadata: Metadata = {
-  title: 'Codebender Tweet Generator',
+  title: 'Richie Tweet Generator',
   description: 'A Tweet Generator that uses AI to generate tweets based on a topic and style.'
 }
 
