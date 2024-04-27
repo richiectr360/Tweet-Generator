@@ -1,5 +1,7 @@
 # Richie Tweet Generator
 
+Website: https://tweet-generator-gray.vercel.app/
+
 This app generates engaging tweets for your brand.
 
 This project is built using Nextjs. It utilizes the OpenAI GPT for chat completion, and Dall-E for image generation.
